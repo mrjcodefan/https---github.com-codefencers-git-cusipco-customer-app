@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284271437843",
+    "project_id": "healu-67006",
+    "storage_bucket": "healu-67006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284271437843:android:5759ef7f3115feee9b37e6",
+        "android_client_info": {
+          "package_name": "com.cupsico.cupsico_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284271437843-kpsktpk9ek4395k6rgnm4lm88itegql3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cupsico.cupsico_customer",
+            "certificate_hash": "21eae94dfb79d6e0acf7483e105f2b6a23d08bb1"
+          }
+        },
+        {
+          "client_id": "284271437843-vhdo44ncehbjhcl9cbl57od57ffmfp5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnn0Ro1MMKNLLSgRReXc1TYyWUl8wUgCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284271437843-vhdo44ncehbjhcl9cbl57od57ffmfp5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

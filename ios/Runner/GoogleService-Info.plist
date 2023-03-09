@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>284271437843-vit3iknkr4tm4fg3rb97ntkr5cn1tvgd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.284271437843-vit3iknkr4tm4fg3rb97ntkr5cn1tvgd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>284271437843-8gq5obvjc900gocsrk00mums4t5ji5dj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfx5f4fG-OnmCKlbOE26qGlovCfuWJZi8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>284271437843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.healu.healu</string>
+	<key>PROJECT_ID</key>
+	<string>healu-67006</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healu-67006.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:284271437843:ios:0b8f3a30e6446dc29b37e6</string>
+</dict>
+</plist>
